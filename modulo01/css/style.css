@@ -1,0 +1,18 @@
+/* h1 {
+    color:darkslategray;
+    font-size: 45px;
+    font-family:monospace
+} */
+
+*  {margin: 0; padding: 0;}
+
+h1 {
+    color: darkgoldenrod;
+}
+p {
+    color: goldenrod;
+}
+
+input[type="text"]{width: 150px; background-color: gray; height: 20px; border-radius: 10px;}
+input[type="email"]{width: 150px; background-color: gray; height: 20px; border-radius: 10px;}
+input[type="submit"]{width: 50px; background-color:darkgray; height: 20px; border-radius: 10px;}
