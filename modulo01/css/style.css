@@ -1,4 +1,38 @@
-#base {
+/* #transition {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    transition-duration: 1.5s;
+    transition-property: width;
+    transition-timing-function: linear;
+}
+
+#transition:hover {
+    width: 400px;
+    height: 400px;
+    background-color: darkgrey;
+} */
+
+/* #borda {
+    border-bottom: solid 7px orangered;
+    outline: dotted 5px black;
+} */
+    
+/* #conteudo {
+    width: 600px;
+    height: 1200px;
+    background-color: black;
+    position: relative;
+}
+
+ #texto {
+     width: 300px;
+    height: 600px;
+    background-color: gray;
+    position: fixed;
+} */
+
+/* #base {
     background-color: gray;
     width: 600px;
     height: 600px;
@@ -14,7 +48,7 @@
     width: 300px;
     height: 300px;
     float: right;
-}
+} */
 
 /* #corDiv {
     width: 350px;
